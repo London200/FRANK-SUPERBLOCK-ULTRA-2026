@@ -1,0 +1,151 @@
+! FRANK SUPERBLOCK — ULTRA+ 2026
+! PREMIUM-OPTIMALIZÁLT • YT PREMIUM SAFE • 98%+ TRACKING BLOCK
+! FONTOS: NINCS blokkolva youtube.com / googlevideo.com, hogy a YouTube Premium normálisan működjön.
+================================
+! ===== ALLOW – SAJÁT DOLGOK =====
+================================
+@@||frankdavid56.asuscomm.com^
+@@||asuscomm.com^
+# TP-LINK / TAPO / KASA
+@@||tplinkcloud.com^
+@@||eu.tplinkcloud.com^
+@@||devs.tplinkcloud.com^
+@@||tapo.io^
+@@||eu.tapo.io^
+@@||kasa.me^
+# AMAZON + ALEXA
+@@||amazon.com^
+@@||api.amazonalexa.com^
+@@||alexa.amazon.com^
+# OPENAI / CHATGPT
+@@||chat.openai.com^
+@@||api.openai.com^
+@@||openai.com^
+# OCTOPUS ENERGY
+@@||api.octopus.energy^
+@@||home.octopus.energy^
+# CLEARPAY / AFTERPAY
+@@||clearpay.co.uk^
+@@||afterpay.com^
+@@||api.clearpay.co.uk^
+@@||shopper.clearpay.co.uk^
+@@||assets.clearpay.co.uk^
+@@||portal.afterpay.com^
+@@||cdn.afterpay.com^
+================================
+! ===== BASE ADBLOCK 2026 =====
+================================
+||doubleclick.net^
+||googlesyndication.com^
+||pagead2.googlesyndication.com^
+||googleadservices.com^
+||adservice.google.com^
+||ads.facebook.com^
+||connect.facebook.net^
+||graph.facebook.com^
+||staticxx.facebook.com^
+||pixel.facebook.com^
+||tr.facebook.com^
+||ads.twitter.com^
+||adnxs.com^
+||taboola.com^
+||outbrain.com^
+================================
+! ===== EXTRA ADBLOCK 2026 =====
+================================
+||zedo.com^
+||yieldmanager.com^
+||pubmatic.com^
+||rubiconproject.com^
+||adform.net^
+||adroll.com^
+================================
+! ===== MALWARE / PHISHING =====
+================================
+||malwaredomains.com^
+||malwaredomainlist.com^
+||phishing.army^
+||phishtank.com^
+||spamhaus.org^
+||urlhaus.abuse.ch^
+||urlhaus-filter.abuse.ch^
+================================
+! ===== TRACKING BLOCK 2026 =====
+================================
+||google-analytics.com^
+||googletagmanager.com^
+||googletagservices.com^
+||doubleverify.com^
+||scorecardresearch.com^
+||quantserve.com^
+||quantcast.com^
+||criteo.com^
+||criteo.net^
+||moatads.com^
+||bluekai.com^
+||mathtag.com^
+||kochava.com^
+||branch.io^
+||adjust.com^
+||appsflyer.com^
+||tracking-protection.com^
+||webtrekk.com^
+==========================================
+! ===== FACEBOOK / INSTAGRAM — SOFT SAFE 2026 =====
+! = MŰKÖDIK: feed, reels, képek, videók / NINCS reklám
+==========================================
+! ENGEDÉLYEZETT működéshez
+@@||instagram.com^
+@@||cdninstagram.com^
+@@||i.instagram.com^
+@@||graph.instagram.com^
+@@||video.xx.fbcdn.net^
+@@||fbcdn.net^
+! BLOKKOLT — reklámok + követés
+||ads.instagram.com^
+||facebookads.com^
+||reel-upload.facebook.com^
+||creativekit-instagram.com^
+||graph-fallback.instagram.com^
+||i-fallback.instagram.com^
+||edge-chat.facebook.com^
+||m.facebook.net^$important
+||ads-api.facebook.com^
+||business.facebook.com^
+||creative.ak.fbcdn.net^
+==============================================
+! ======== ULTRA+ BOOST 2026 ========
+==============================================
+! GOOGLE EXTRA
+||tpc.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||partner.googleadservices.com^
+||cm.g.doubleclick.net^
+! TIKTOK HARD BLOCK
+||ads-sg.tiktok.com^
+||log.byteoversea.com^
+||log.snssdk.com^
+||analytics.bytefcdn.com^
+||mon-va.byteoversea.com^
+||va-tiktok-core.byteoversea.com^
+! MICROSOFT TELEMETRY
+||browser.events.data.msn.com^
+||v10.events.data.microsoft.com^
+||mobile-client.events.data.microsoft.com^
+! APPLE TELEMETRY
+||metrics.mzstatic.com^
+||metrics.icloud.com^
+! GLOBAL AD NETWORKS
+||popads.net^
+||popcash.net^
+||propellerads.com^
+||mgid.com^
+||revcontent.com^
+||exoclick.com^
+! CRYPTO MINING BLOCK
+||coinimp.com^
+||crypto-loot.com^
+||webminepool.com^
+================================
+! END — FRANK SUPERBLOCK 2026 (UPDATED)
+================================
