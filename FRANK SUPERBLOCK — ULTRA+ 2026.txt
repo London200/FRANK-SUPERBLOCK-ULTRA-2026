@@ -33,6 +33,12 @@
 @@||portal.afterpay.com^
 @@||cdn.afterpay.com^
 @@||homecenter.com.co^
+@@||homecenter.com.co^
+@@||assets.homecenter.com.co^
+@@||img.homecenter.com.co^
+@@||images.homecenter.com^
+@@||akamaihd.net^
+@@||cloudfront.net^
 ================================
 ! ===== BASE ADBLOCK 2026 =====
 ================================
