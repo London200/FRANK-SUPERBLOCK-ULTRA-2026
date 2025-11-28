@@ -39,6 +39,16 @@
 @@||images.homecenter.com^
 @@||akamaihd.net^
 @@||cloudfront.net^
+@@||homecenter.com.co^
+@@||akamaihd.net^
+@@||akamaized.net^
+@@||cloudfront.net^
+@@||edgekey.net^
+@@||scene7.com^
+@@||cdn.homecenter.com.co^
+@@||assets.homecenter.com.co^
+@@||homecenterco.scene7.com^
+@@||hdnux.com^
 ================================
 ! ===== BASE ADBLOCK 2026 =====
 ================================
