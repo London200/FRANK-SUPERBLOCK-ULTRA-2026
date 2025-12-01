@@ -24,6 +24,7 @@
 # OCTOPUS ENERGY
 @@||api.octopus.energy^
 @@||home.octopus.energy^
+@@||sst.octopus.energy^
 # CLEARPAY / AFTERPAY
 @@||clearpay.co.uk^
 @@||afterpay.com^
