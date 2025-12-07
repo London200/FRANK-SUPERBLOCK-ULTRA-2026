@@ -1,31 +1,34 @@
-! FRANK SUPERBLOCK — ULTRA+ 2026
+! FRANK SUPERBLOCK — ULTRA+ 2026 (FINAL)
 ! PREMIUM-OPTIMALIZÁLT • YT PREMIUM SAFE • 98%+ TRACKING BLOCK
-! FONTOS: NINCS blokkolva youtube.com / googlevideo.com, hogy a YouTube Premium normálisan működjön.
+! FRISSÍTVE AI-AJÁNLÁSOKKAL (2025 DECEMBER)
+!
+FONTOS: NINCS blokkolva youtube.com / googlevideo.com, hogy a YouTube Premium normálisan működjön.
 ================================
-! ===== ALLOW – SAJÁT DOLGOK =====
+!
+===== ALLOW – SAJÁT DOLGOK / MŰKÖDÉSHEZ SZÜKSÉGES KIVÉTELEK =====
 ================================
 @@||frankdavid56.asuscomm.com^
 @@||asuscomm.com^
-# TP-LINK / TAPO / KASA
+# [cite_start]TP-LINK / TAPO / KASA [cite: 3]
 @@||tplinkcloud.com^
 @@||eu.tplinkcloud.com^
 @@||devs.tplinkcloud.com^
 @@||tapo.io^
 @@||eu.tapo.io^
 @@||kasa.me^
-# AMAZON + ALEXA
+# [cite_start]AMAZON + ALEXA [cite: 3]
 @@||amazon.com^
 @@||api.amazonalexa.com^
 @@||alexa.amazon.com^
-# OPENAI / CHATGPT
+# [cite_start]OPENAI / CHATGPT [cite: 3]
 @@||chat.openai.com^
 @@||api.openai.com^
 @@||openai.com^
-# OCTOPUS ENERGY
+# [cite_start]OCTOPUS ENERGY [cite: 3]
 @@||api.octopus.energy^
 @@||home.octopus.energy^
 @@||sst.octopus.energy^
-# CLEARPAY / AFTERPAY
+# [cite_start]CLEARPAY / AFTERPAY [cite: 3]
 @@||clearpay.co.uk^
 @@||afterpay.com^
 @@||api.clearpay.co.uk^
@@ -33,25 +36,16 @@
 @@||assets.clearpay.co.uk^
 @@||portal.afterpay.com^
 @@||cdn.afterpay.com^
-@@||homecenter.com.co^
-@@||homecenter.com.co^
-@@||assets.homecenter.com.co^
-@@||img.homecenter.com.co^
-@@||images.homecenter.com^
-@@||akamaihd.net^
-@@||cloudfront.net^
-@@||homecenter.com.co^
-@@||akamaihd.net^
-@@||akamaized.net^
-@@||cloudfront.net^
-@@||edgekey.net^
-@@||scene7.com^
-@@||cdn.homecenter.com.co^
-@@||assets.homecenter.com.co^
-@@||homecenterco.scene7.com^
-@@||hdnux.com^
+# [cite_start]INSTAGRAM MŰKÖDÉSHEZ [cite: 5]
+@@||instagram.com^
+@@||cdninstagram.com^
+@@||i.instagram.com^
+@@||graph.instagram.com^
+@@||video.xx.fbcdn.net^
+@@||fbcdn.net^
 ================================
-! ===== BASE ADBLOCK 2026 =====
+!
+===== BASE ADBLOCK 2026 =====
 ================================
 ||doubleclick.net^
 ||googlesyndication.com^
@@ -109,17 +103,8 @@
 ||tracking-protection.com^
 ||webtrekk.com^
 ==========================================
-! ===== FACEBOOK / INSTAGRAM — SOFT SAFE 2026 =====
-! = MŰKÖDIK: feed, reels, képek, videók / NINCS reklám
+! ===== FACEBOOK / INSTAGRAM REKLÁM BLOKK =====
 ==========================================
-! ENGEDÉLYEZETT működéshez
-@@||instagram.com^
-@@||cdninstagram.com^
-@@||i.instagram.com^
-@@||graph.instagram.com^
-@@||video.xx.fbcdn.net^
-@@||fbcdn.net^
-! BLOKKOLT — reklámok + követés
 ||ads.instagram.com^
 ||facebookads.com^
 ||reel-upload.facebook.com^
@@ -134,36 +119,46 @@
 ==============================================
 ! ======== ULTRA+ BOOST 2026 ========
 ==============================================
-! GOOGLE EXTRA
+! [cite_start]GOOGLE EXTRA [cite: 6]
 ||tpc.googlesyndication.com^
 ||securepubads.g.doubleclick.net^
 ||partner.googleadservices.com^
 ||cm.g.doubleclick.net^
-! TIKTOK HARD BLOCK
+! [cite_start]TIKTOK HARD BLOCK [cite: 6]
 ||ads-sg.tiktok.com^
 ||log.byteoversea.com^
 ||log.snssdk.com^
 ||analytics.bytefcdn.com^
 ||mon-va.byteoversea.com^
 ||va-tiktok-core.byteoversea.com^
-! MICROSOFT TELEMETRY
+! [cite_start]MICROSOFT TELEMETRY [cite: 6]
 ||browser.events.data.msn.com^
 ||v10.events.data.microsoft.com^
 ||mobile-client.events.data.microsoft.com^
-! APPLE TELEMETRY
+! [cite_start]APPLE TELEMETRY [cite: 6]
 ||metrics.mzstatic.com^
 ||metrics.icloud.com^
-! GLOBAL AD NETWORKS
+! [cite_start]GLOBAL AD NETWORKS [cite: 7]
 ||popads.net^
 ||popcash.net^
 ||propellerads.com^
 ||mgid.com^
 ||revcontent.com^
 ||exoclick.com^
-! CRYPTO MINING BLOCK
+! [cite_start]CRYPTO MINING BLOCK [cite: 7]
 ||coinimp.com^
 ||crypto-loot.com^
 ||webminepool.com^
+==============================================
+! ======== AI-JAVASLATOK — HOZZÁADVA ========
+==============================================
+! CNAME/TOVÁBBI NYOMKÖVETŐK
+||cdn.segment.com^
+||mixpanel.com^
+||amplitude.com^
+||flurry.com^
+||serving-sys.com^
+||contextweb.com^
 ================================
-! END — FRANK SUPERBLOCK 2026 (UPDATED)
+! END — FRANK SUPERBLOCK 2026 (FINAL)
 ================================
