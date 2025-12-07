@@ -162,3 +162,66 @@ FONTOS: NINCS blokkolva youtube.com / googlevideo.com, hogy a YouTube Premium no
 ================================
 ! END — FRANK SUPERBLOCK 2026 (FINAL)
 ================================
+! FRANK MEGA LISTA — ULTRA+ 2026 (Safe Edition)
+! Ads + Tracking blocklist without breaking Facebook, Instagram, YouTube
+
+! --- Google Ads ---
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||tpc.googlesyndication.com^
+||doubleclick.net^
+
+! --- YouTube hirdetések (biztonságos, nem töri a videókat!) ---
+||youtube.com/api/stats/ads^
+||youtube.com/pagead/interaction^
+||youtube.com/pagead/lvp^
+||youtube.com/pagead/adview^
+||youtube.com/ad_data^
+||youtube.com/ptracking^
+
+! --- Meta Ads (FB/IG reklám API-k, de működést nem törik) ---
+||ads-api.facebook.com^
+||graph.facebook.com/ads^
+||ads.facebook.com^
+||ads.instagram.com^
+
+! --- Meta tracking (biztonságos tiltások) ---
+||pixel.facebook.com^
+||tr.facebook.com^
+||connect.facebook.net/en_US/fbevents.js^
+
+! --- TikTok hirdetés & tracking ---
+||ads.tiktok.com^
+||analytics.tiktok.com^
+||log.byteoversea.com^
+||business-api.tiktok.com^
+
+! --- Snapchat / Twitter / Reddit Ads ---
+||ads-api.twitter.com^
+||ads.snapchat.com^
+||ads.reddit.com^
+
+! --- Általános reklámhálózatok ---
+||adpush.network^
+||promo-server.xyz^
+||delivery.adnetwork.com^
+||admob.com^
+||media.net^
+||adroll.com^
+||molocoads.com^
+
+! --- Közismert tracking / analitika ---
+||google-analytics.com^
+||ssl.google-analytics.com^
+||app-measurement.com^
+||branch.io^
+||appsflyer.com^
+||adjust.com^
+||facebook-analytics.net^
+||matomo.cloud^
+
+! --- Popups / spam / malware ---
+||popup-promotions.xyz^
+||clickbait-networks.com^
+||spammy-ads.net^
+||malicious-tracker.net^
