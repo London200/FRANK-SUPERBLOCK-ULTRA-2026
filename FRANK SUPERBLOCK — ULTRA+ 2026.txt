@@ -512,6 +512,8 @@ mobile-client.events.data.microsoft.com^
 ||creative.ak.fbcdn.net^
 ||advertising.facebook.com^
 ||ads.facebook.com^
+||pixel.facebook.com^
+||an.facebook.com^
 
 ==============================================================
 ! END — FRANK SUPERBLOCK ULTRA+ 2026 (FINAL UPDATED)
