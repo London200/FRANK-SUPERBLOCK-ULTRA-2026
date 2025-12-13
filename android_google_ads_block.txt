@@ -1,0 +1,101 @@
+# ======================================
+# Android / Google in-app ads & tracking
+# DNS-level blocklist
+# ======================================
+
+# --- Google Ads core ---
+ads.google.com
+ads.googleadservices.com
+pagead2.googlesyndication.com
+pagead.google.com
+adservice.google.com
+adservice.google.co.uk
+adservice.google.hu
+googleads.g.doubleclick.net
+pagead2.googleadservices.com
+afs.googlesyndication.com
+
+# --- DoubleClick ---
+doubleclick.net
+ad.doubleclick.net
+stats.g.doubleclick.net
+static.doubleclick.net
+m.doubleclick.net
+
+# --- Google Mobile Ads SDK ---
+mobileads.google.com
+googleads.googleapis.com
+googleads.g.doubleclick.net
+admob.google.com
+ads.mopub.com
+
+# --- AdMob (VERY IMPORTANT for apps) ---
+admob.com
+admob.google.com
+admob.googleusercontent.com
+ads.mopub.com
+ads.mopub.com.edgekey.net
+
+# --- Google Analytics (apps) ---
+analytics.google.com
+app-measurement.com
+firebaseinstallations.googleapis.com
+firebaseinstallations.gstatic.com
+firebase-settings.crashlytics.com
+
+# --- Firebase / telemetry (ads-related) ---
+firebase.googleapis.com
+firebasecrashlytics.googleapis.com
+crashlytics.com
+reports.crashlytics.com
+
+# --- Android system ads / telemetry ---
+adssettings.google.com
+adssettings.google.co.uk
+adssettings.google.hu
+adservices.google.com
+adservices.googleapis.com
+
+# --- Play Store ads & tracking ---
+play.google.com/log
+play.googleapis.com/log
+play.googleapis.com/experiments
+android.clients.google.com/log
+android.clients.google.com/experiments
+
+# --- YouTube in-app ads (partial DNS-level) ---
+youtubei.googleapis.com
+s.youtube.com
+video-stats.l.google.com
+ads.youtube.com
+
+# --- Common mobile ad networks ---
+unityads.com
+ads.unityads.com
+unityads.mediation.com
+app-measurement.com
+chartboost.com
+ads.chartboost.com
+inmobi.com
+ads.inmobi.com
+vungle.com
+ads.vungle.com
+ironsource.com
+ads.ironsource.com
+applovin.com
+ads.applovin.com
+mintegral.com
+ads.mintegral.com
+fyber.com
+ads.fyber.com
+
+# --- Meta / Facebook ads inside apps ---
+ads.facebook.com
+an.facebook.com
+graph.facebook.com
+connect.facebook.net
+pixel.facebook.com
+
+# ======================================
+# End of Android ads blocklist
+# ======================================
