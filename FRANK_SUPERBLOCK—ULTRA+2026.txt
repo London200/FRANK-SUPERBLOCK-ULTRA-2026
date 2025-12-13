@@ -521,6 +521,10 @@ mobile-client.events.data.microsoft.com^
 ||c14r.facebook.com^
 ||c15r.facebook.com^
 ||c16r.facebook.com^
+||star.facebook.com^
+||graph.facebook.com^
+||connect.facebook.net^
+||static.xx.fbcdn.net^
 
 ==============================================================
 ! END — FRANK SUPERBLOCK ULTRA+ 2026 (FINAL UPDATED)
