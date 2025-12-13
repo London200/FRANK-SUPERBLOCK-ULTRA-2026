@@ -1,49 +1,12 @@
 # ==================================================
-# FRANK SUPERBLOCK — NORMAL FINAL 2026
-# DNS-LEVEL • STABLE • FACEBOOK SAFE
+# FRANK SUPERBLOCK — STABLE FINAL 2026
+# ANDROID + FACEBOOK APP SAFE
 # ==================================================
 
 # ==================================================
-# ALLOWLIST — KÖTELEZŐ KIVÉTELEK
+# ALLOWLIST — KÖTELEZŐ (NE BLOKKOLD)
 # ==================================================
 
-# --- Saját / DDNS ---
-@@||frankdavid56.asuscomm.com^
-@@||asuscomm.com^
-
-# --- TP-LINK / TAPO / KASA ---
-@@||tplinkcloud.com^
-@@||eu.tplinkcloud.com^
-@@||devs.tplinkcloud.com^
-@@||tapo.io^
-@@||eu.tapo.io^
-@@||kasa.me^
-
-# --- AMAZON / ALEXA ---
-@@||amazon.com^
-@@||api.amazonalexa.com^
-@@||alexa.amazon.com^
-
-# --- OPENAI ---
-@@||openai.com^
-@@||chat.openai.com^
-@@||api.openai.com^
-
-# --- OCTOPUS ENERGY ---
-@@||api.octopus.energy^
-@@||home.octopus.energy^
-@@||sst.octopus.energy^
-
-# --- CLEARPAY / AFTERPAY ---
-@@||clearpay.co.uk^
-@@||afterpay.com^
-@@||api.clearpay.co.uk^
-@@||shopper.clearpay.co.uk^
-@@||assets.clearpay.co.uk^
-@@||portal.afterpay.com^
-@@||cdn.afterpay.com^
-
-# --- FACEBOOK / INSTAGRAM CORE (KÖTELEZŐ) ---
 @@||graph.facebook.com^
 @@||b-api.facebook.com^
 @@||b-graph.facebook.com^
@@ -51,106 +14,61 @@
 @@||c10r.facebook.com^
 @@||star.c10r.facebook.com^
 @@||fbcdn.net^
-@@||static.xx.fbcdn.net^
 @@||scontent.xx.fbcdn.net^
+@@||static.xx.fbcdn.net^
 @@||video.xx.fbcdn.net^
 @@||instagram.com^
 @@||cdninstagram.com^
 
 # ==================================================
-# BLOCKLIST — ADS & TRACKING (SAFE)
+# META / FACEBOOK — CSAK AMI BIZTONSÁGOS
 # ==================================================
 
-# ------------------------------
-# GOOGLE ADS / ANDROID APPS
-# ------------------------------
+ads.facebook.com
+advertising.facebook.com
+facebookads.com
+
+# ⚠️ NEM BLOKKOLJUK (APP TÖRI):
+# ads-api.facebook.com
+# pixel.facebook.com
+# an.facebook.com
+# tr.facebook.com
+# log.facebook.com
+
+# ==================================================
+# GOOGLE ADS / ANDROID APPOK
+# ==================================================
+
 ads.google.com
 ads.googleadservices.com
 pagead2.googlesyndication.com
 googlesyndication.com
 adservice.google.com
-googleads.g.doubleclick.net
 doubleclick.net
-ad.doubleclick.net
 stats.g.doubleclick.net
+ad.doubleclick.net
 static.doubleclick.net
 
 admob.com
 admob.google.com
 mobileads.google.com
-ads.mopub.com
 
-# ------------------------------
-# GOOGLE / FIREBASE TRACKING
-# ------------------------------
+# ==================================================
+# APP TRACKING (SAFE)
+# ==================================================
+
 google-analytics.com
-analytics.google.com
-googletagmanager.com
 app-measurement.com
 firebasecrashlytics.com
 crashlytics.com
-
-# ------------------------------
-# META / FACEBOOK ADS & TRACKING
-# ------------------------------
-ads.facebook.com
-advertising.facebook.com
-facebookads.com
-ads-api.facebook.com
-pixel.facebook.com
-an.facebook.com
-tr.facebook.com
-log.facebook.com
-
-# ------------------------------
-# INSTAGRAM ADS (SAFE)
-# ------------------------------
-ads.instagram.com
-graph-fallback.instagram.com
-i-fallback.instagram.com
-
-# ------------------------------
-# TIKTOK ADS / TRACKING
-# ------------------------------
-ads.tiktok.com
-ads-api.tiktok.com
-analytics.tiktok.com
-log.byteoversea.com
-log.snssdk.com
-
-# ------------------------------
-# MICROSOFT TELEMETRY
-# ------------------------------
-v10.events.data.microsoft.com
-browser.events.data.msn.com
-
-# ------------------------------
-# APP ANALYTICS / ATTRIBUTION
-# ------------------------------
-appsflyer.com
 adjust.com
+appsflyer.com
 branch.io
-kochava.com
-mixpanel.com
-amplitude.com
-segment.com
 
-# ------------------------------
-# GLOBAL AD NETWORKS
-# ------------------------------
-taboola.com
-outbrain.com
-criteo.com
-criteo.net
-pubmatic.com
-rubiconproject.com
-openx.net
-adnxs.com
-yieldmanager.com
+# ==================================================
+# GAME / APP AD NETWORKS
+# ==================================================
 
-# ------------------------------
-# MOBILE GAME ADS
-# ------------------------------
 unityads.com
 ads.unityads.com
 chartboost.com
@@ -161,12 +79,24 @@ applovin.com
 ads.applovin.com
 vungle.com
 ads.vungle.com
-fyber.com
-ads.fyber.com
 
-# ------------------------------
-# MALWARE / CRYPTO MINING
-# ------------------------------
+# ==================================================
+# GLOBAL AD NETWORKS
+# ==================================================
+
+taboola.com
+outbrain.com
+criteo.com
+criteo.net
+pubmatic.com
+rubiconproject.com
+openx.net
+adnxs.com
+
+# ==================================================
+# MALWARE / CRYPTO
+# ==================================================
+
 coinimp.com
 crypto-loot.com
 webminepool.com
@@ -174,5 +104,5 @@ popads.net
 popcash.net
 
 # ==================================================
-# END — FRANK SUPERBLOCK NORMAL FINAL 2026
+# END — FRANK SUPERBLOCK STABLE FINAL
 # ==================================================
