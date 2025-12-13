@@ -514,15 +514,6 @@ mobile-client.events.data.microsoft.com^
 ||ads.facebook.com^
 ||pixel.facebook.com^
 ||an.facebook.com^
-||c10r.facebook.com^
-||c11r.facebook.com^
-||c12r.facebook.com^
-||c13r.facebook.com^
-||c14r.facebook.com^
-||c15r.facebook.com^
-||c16r.facebook.com^
-||star.facebook.com^
-||graph.facebook.com^
 ||connect.facebook.net^
 ||static.xx.fbcdn.net^
 
