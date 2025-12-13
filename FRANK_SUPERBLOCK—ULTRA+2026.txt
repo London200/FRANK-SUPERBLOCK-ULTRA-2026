@@ -1,74 +1,115 @@
 # ==================================================
-# FRANK SUPERBLOCK — STABLE FINAL 2026
-# ANDROID + FACEBOOK APP SAFE
+# FRANK DNS — FULL LIST 2026 (STABLE)
+# One-file DNS allow + block list
+# Facebook / Instagram / Android SAFE
 # ==================================================
 
 # ==================================================
-# ALLOWLIST — KÖTELEZŐ (NE BLOKKOLD)
+# ===== ALLOWLIST (MŰKÖDÉSHEZ KÖTELEZŐ) =====
 # ==================================================
 
-@@||graph.facebook.com^
-@@||b-api.facebook.com^
-@@||b-graph.facebook.com^
-@@||connect.facebook.net^
-@@||c10r.facebook.com^
-@@||star.c10r.facebook.com^
-@@||fbcdn.net^
-@@||scontent.xx.fbcdn.net^
-@@||static.xx.fbcdn.net^
-@@||video.xx.fbcdn.net^
-@@||instagram.com^
-@@||cdninstagram.com^
+# --- FACEBOOK / META CORE ---
+graph.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+connect.facebook.net
+c10r.facebook.com
+star.c10r.facebook.com
+fbcdn.net
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+video.xx.fbcdn.net
+
+# --- INSTAGRAM CORE ---
+instagram.com
+cdninstagram.com
+i.instagram.com
+
+# --- SAJÁT / DDNS ---
+frankdavid56.asuscomm.com
+asuscomm.com
+
+# --- TP-LINK / TAPO / KASA ---
+tplinkcloud.com
+eu.tplinkcloud.com
+devs.tplinkcloud.com
+tapo.io
+eu.tapo.io
+kasa.me
+
+# --- AMAZON / ALEXA ---
+amazon.com
+api.amazonalexa.com
+alexa.amazon.com
+
+# --- OPENAI ---
+openai.com
+chat.openai.com
+api.openai.com
+
+# --- OCTOPUS ENERGY ---
+api.octopus.energy
+home.octopus.energy
+sst.octopus.energy
+
+# --- CLEARPAY / AFTERPAY ---
+clearpay.co.uk
+afterpay.com
+api.clearpay.co.uk
+shopper.clearpay.co.uk
+assets.clearpay.co.uk
+portal.afterpay.com
+cdn.afterpay.com
 
 # ==================================================
-# META / FACEBOOK — CSAK AMI BIZTONSÁGOS
+# ===== BLOCKLIST (REKLÁM + TRACKING) =====
 # ==================================================
 
+# --- META ADS (SAFE) ---
 ads.facebook.com
-advertising.facebook.com
 facebookads.com
+advertising.facebook.com
 
-# ⚠️ NEM BLOKKOLJUK (APP TÖRI):
-# ads-api.facebook.com
-# pixel.facebook.com
-# an.facebook.com
-# tr.facebook.com
-# log.facebook.com
-
-# ==================================================
-# GOOGLE ADS / ANDROID APPOK
-# ==================================================
-
+# --- GOOGLE ADS / ANDROID APPS ---
 ads.google.com
 ads.googleadservices.com
 pagead2.googlesyndication.com
 googlesyndication.com
 adservice.google.com
 doubleclick.net
-stats.g.doubleclick.net
 ad.doubleclick.net
+stats.g.doubleclick.net
 static.doubleclick.net
 
 admob.com
 admob.google.com
 mobileads.google.com
 
-# ==================================================
-# APP TRACKING (SAFE)
-# ==================================================
-
+# --- GOOGLE / FIREBASE TRACKING ---
 google-analytics.com
+analytics.google.com
+googletagmanager.com
 app-measurement.com
 firebasecrashlytics.com
 crashlytics.com
-adjust.com
+
+# --- APP ATTRIBUTION / ANALYTICS ---
 appsflyer.com
+adjust.com
 branch.io
+kochava.com
+mixpanel.com
+amplitude.com
+segment.com
 
-# ==================================================
-# GAME / APP AD NETWORKS
-# ==================================================
+# --- TIKTOK ADS / TRACKING ---
+ads.tiktok.com
+ads-api.tiktok.com
+analytics.tiktok.com
+log.byteoversea.com
+log.snssdk.com
 
+# --- GAME / APP AD NETWORKS ---
 unityads.com
 ads.unityads.com
 chartboost.com
@@ -79,11 +120,10 @@ applovin.com
 ads.applovin.com
 vungle.com
 ads.vungle.com
+fyber.com
+ads.fyber.com
 
-# ==================================================
-# GLOBAL AD NETWORKS
-# ==================================================
-
+# --- GLOBAL AD NETWORKS ---
 taboola.com
 outbrain.com
 criteo.com
@@ -92,11 +132,13 @@ pubmatic.com
 rubiconproject.com
 openx.net
 adnxs.com
+yieldmanager.com
 
-# ==================================================
-# MALWARE / CRYPTO
-# ==================================================
+# --- MICROSOFT TELEMETRY ---
+v10.events.data.microsoft.com
+browser.events.data.msn.com
 
+# --- MALWARE / CRYPTO ---
 coinimp.com
 crypto-loot.com
 webminepool.com
@@ -104,5 +146,5 @@ popads.net
 popcash.net
 
 # ==================================================
-# END — FRANK SUPERBLOCK STABLE FINAL
+# END — FRANK DNS FULL LIST 2026 (STABLE)
 # ==================================================
