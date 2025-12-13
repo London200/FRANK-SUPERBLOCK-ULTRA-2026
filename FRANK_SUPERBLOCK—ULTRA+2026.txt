@@ -25,42 +25,6 @@ instagram.com
 cdninstagram.com
 i.instagram.com
 
-# --- SAJÁT / DDNS ---
-frankdavid56.asuscomm.com
-asuscomm.com
-
-# --- TP-LINK / TAPO / KASA ---
-tplinkcloud.com
-eu.tplinkcloud.com
-devs.tplinkcloud.com
-tapo.io
-eu.tapo.io
-kasa.me
-
-# --- AMAZON / ALEXA ---
-amazon.com
-api.amazonalexa.com
-alexa.amazon.com
-
-# --- OPENAI ---
-openai.com
-chat.openai.com
-api.openai.com
-
-# --- OCTOPUS ENERGY ---
-api.octopus.energy
-home.octopus.energy
-sst.octopus.energy
-
-# --- CLEARPAY / AFTERPAY ---
-clearpay.co.uk
-afterpay.com
-api.clearpay.co.uk
-shopper.clearpay.co.uk
-assets.clearpay.co.uk
-portal.afterpay.com
-cdn.afterpay.com
-
 # ==================================================
 # ===== BLOCKLIST (REKLÁM + TRACKING) =====
 # ==================================================
