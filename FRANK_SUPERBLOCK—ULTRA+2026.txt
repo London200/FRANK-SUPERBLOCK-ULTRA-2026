@@ -1,13 +1,13 @@
 # ==================================================
-# FRANK SUPERBLOCK — CLEAN + EXCEPTIONS 2026
-# DNS-LEVEL • STABLE • DAILY USE
+# FRANK SUPERBLOCK — NORMAL FINAL 2026
+# DNS-LEVEL • STABLE • FACEBOOK SAFE
 # ==================================================
 
 # ==================================================
-# ALLOWLIST — KÖTELEZŐ KIVÉTELEK (NE TÖRÖLD)
+# ALLOWLIST — KÖTELEZŐ KIVÉTELEK
 # ==================================================
 
-# --- Saját domain / távoli elérés ---
+# --- Saját / DDNS ---
 @@||frankdavid56.asuscomm.com^
 @@||asuscomm.com^
 
@@ -24,7 +24,7 @@
 @@||api.amazonalexa.com^
 @@||alexa.amazon.com^
 
-# --- OPENAI / CHATGPT ---
+# --- OPENAI ---
 @@||openai.com^
 @@||chat.openai.com^
 @@||api.openai.com^
@@ -43,20 +43,26 @@
 @@||portal.afterpay.com^
 @@||cdn.afterpay.com^
 
-# --- INSTAGRAM / META MŰKÖDÉSHEZ ---
+# --- FACEBOOK / INSTAGRAM CORE (KÖTELEZŐ) ---
+@@||graph.facebook.com^
+@@||b-api.facebook.com^
+@@||b-graph.facebook.com^
+@@||connect.facebook.net^
+@@||c10r.facebook.com^
+@@||star.c10r.facebook.com^
+@@||fbcdn.net^
+@@||static.xx.fbcdn.net^
+@@||scontent.xx.fbcdn.net^
+@@||video.xx.fbcdn.net^
 @@||instagram.com^
 @@||cdninstagram.com^
-@@||i.instagram.com^
-@@||graph.instagram.com^
-@@||fbcdn.net^
-@@||video.xx.fbcdn.net^
 
 # ==================================================
-# BLOCKLIST — REKLÁM + TRACKING (SAFE)
+# BLOCKLIST — ADS & TRACKING (SAFE)
 # ==================================================
 
 # ------------------------------
-# GOOGLE ADS / ANDROID IN-APP ADS
+# GOOGLE ADS / ANDROID APPS
 # ------------------------------
 ads.google.com
 ads.googleadservices.com
@@ -96,14 +102,6 @@ an.facebook.com
 tr.facebook.com
 log.facebook.com
 
-# --- Facebook CNAME evasion ---
-c10r.facebook.com
-c11r.facebook.com
-c12r.facebook.com
-c13r.facebook.com
-star.c10r.facebook.com
-star.c11r.facebook.com
-
 # ------------------------------
 # INSTAGRAM ADS (SAFE)
 # ------------------------------
@@ -121,7 +119,7 @@ log.byteoversea.com
 log.snssdk.com
 
 # ------------------------------
-# MICROSOFT TELEMETRY (SAFE)
+# MICROSOFT TELEMETRY
 # ------------------------------
 v10.events.data.microsoft.com
 browser.events.data.msn.com
@@ -167,7 +165,7 @@ fyber.com
 ads.fyber.com
 
 # ------------------------------
-# MALWARE / SCAM (SAFE)
+# MALWARE / CRYPTO MINING
 # ------------------------------
 coinimp.com
 crypto-loot.com
@@ -176,5 +174,5 @@ popads.net
 popcash.net
 
 # ==================================================
-# END — FRANK SUPERBLOCK CLEAN + EXCEPTIONS 2026
+# END — FRANK SUPERBLOCK NORMAL FINAL 2026
 # ==================================================
